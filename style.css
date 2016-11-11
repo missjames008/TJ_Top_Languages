@@ -1,0 +1,51 @@
+.image {
+  max-height: 100px;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+h1 {
+  text-align:center;
+
+}
+
+h3 {
+  padding-top: 5%;
+}
+
+.jumbotron h1 {
+  font-size: 30pt;
+  color: pink;
+}
+
+.row {
+  padding: 3%;
+}
+
+#florence {
+  max-width: 50px;
+}
+
+.col-sm-8 {
+  background-color: pink;
+}
+
+.btn-info {
+  margin-bottom: 5%;
+}
+
+.languages {
+  background-color: #eee;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.carousel-control.right, .carousel-control.left {
+    background-image: none;
+  }
+
+.glyphicon-chevron-left:before, .glyphicon-chevron-right:before {
+  color: pink;
+}
